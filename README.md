@@ -47,3 +47,5 @@ Hi,I'm Fotie🙌, a Front-End Web Developer, Chatbot Developer and Cloud Enthusi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Fotie's github stats](https://github-readme-stats.vercel.app/api?username=FotieMConstant&show_icons=true&hide_border=true)
+
+<a href="https://www.buymeacoffee.com/fotiecodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 60px !important;" ></a>
