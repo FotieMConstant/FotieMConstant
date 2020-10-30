@@ -21,7 +21,7 @@ Hi,I'm Fotie🙌, a Front-End Web Developer, Chatbot Developer and Cloud Enthusi
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at WinMoney.
+- 🔭 I’m currently working as Front-End developer at PaveWay Technologies Inc.
 - 🌱 I’m currently learning VueJs and ReactJs.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
