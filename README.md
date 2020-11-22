@@ -49,4 +49,4 @@ Hi,I'm Fotie🙌, a Front-End Web Developer, Chatbot Developer and Cloud Enthusi
 ![Fotie's github stats](https://github-readme-stats.vercel.app/api?username=FotieMConstant&show_icons=true&hide_border=true)
 
  Show some love <br/><br/>
-<a href="https://www.buymeacoffee.com/fotiecodes" target="_blank"><img height="40" width="140" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee"></a>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C32QIUS)
