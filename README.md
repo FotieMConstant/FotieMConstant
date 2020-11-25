@@ -21,7 +21,7 @@ Hi,I'm Fotie🙌, a Front-End Web Developer, Chatbot Developer and Cloud Enthusi
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as Front-End developer at <a href="https://pavewaytechnologies.com/">PaveWay Technologies Inc.</a>
+- 🔭 I’m currently looking for a Front-End developer role.
 - 🌱 I’m currently learning VueJs and ReactJs.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
