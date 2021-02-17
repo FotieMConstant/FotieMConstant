@@ -48,5 +48,7 @@ Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. A
 
 ![Fotie's github stats](https://github-readme-stats.vercel.app/api?username=FotieMConstant&show_icons=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FotieMConstant&layout=compact)](https://github.com/FotieMConstant/)
+
  Show some love <br/><br/>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C32QIUS)
