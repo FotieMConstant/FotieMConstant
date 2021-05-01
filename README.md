@@ -1,4 +1,4 @@
-### Hello World 👋🏾 It's [Fotie!](https://fotiemconstant.github.io/)
+### Hello World 👋🏾 It's [Fotie](https://fotiemconstant.github.io/). Mostly known as [fotiecodes!](https://fotiecodes.vercel.app/)
 
 <br/>
 
