@@ -1,5 +1,7 @@
 ### Hello World 👋🏾 It's [Fotie](https://fotiemconstant.github.io/). Mostly known as [fotiecodes!](https://fotiecodes.vercel.app/)
 
+![](https://komarev.com/ghpvc/?username=FotieMConstant)
+
 <br/>
 
 <a href="https://twitter.com/fotie_codes">
