@@ -1,9 +1,5 @@
 ### Hello World 👋🏾 It's [Fotie](https://fotiemconstant.github.io/). Mostly known as [fotiecodes!](https://fotiecodes.vercel.app/)
 
-![](https://komarev.com/ghpvc/?username=FotieMConstant)
-
-<br/>
-
 <a href="https://twitter.com/fotie_codes">
 <img align="left" alt="Fotie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,6 +16,7 @@
 Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + Markup) and Python.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<br/>
 
 **Talking about Personal Stuffs:**
 
@@ -38,7 +35,13 @@ Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. A
 - Facebook Developer Circles Yaounde
 - Student Community Ambassador at Openlcassrooms
 
-**Languages and Tools:**
+### Graph stats :
+[![fotiecodes's github activity graph](https://activity-graph.herokuapp.com/graph?username=FotieMConstant&theme=xcode)](https://github.com/FotieMContant)
+
+ Show some love <br/><br/>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C32QIUS)
+
+<!-- **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
@@ -51,6 +54,4 @@ Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. A
 ![Fotie's github stats](https://github-readme-stats.vercel.app/api?username=FotieMConstant&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FotieMConstant&layout=compact)](https://github.com/FotieMConstant/)
-
- Show some love <br/><br/>
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C32QIUS)
+ -->
