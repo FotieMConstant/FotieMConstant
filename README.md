@@ -36,7 +36,7 @@ Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. A
 - Student Community Ambassador at Openlcassrooms
 
 ### Graph stats :
-[![fotiecodes's github activity graph](https://activity-graph.herokuapp.com/graph?username=FotieMConstant&theme=xcode)](https://github.com/FotieMContant)
+[![fotiecodes's github activity graph](https://activity-graph.herokuapp.com/graph?username=FotieMConstant&theme=xcode)](https://github.com/FotieMConstant)
 
  Show some love <br/><br/>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C32QIUS)
