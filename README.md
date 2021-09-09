@@ -20,7 +20,7 @@ Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. A
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently collaborating on <a href="https://github.com/benawad/dogehouse/graphs/contributors">DogeHouse</a>
+- 🔭 I’m currently working at <a href="https://gohze.com/">Gohze</a>
 - 🌱 I’m currently learning VueJs and ReactJs.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
