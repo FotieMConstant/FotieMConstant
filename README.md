@@ -20,7 +20,7 @@ Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. A
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working at <a href="https://gohze.com/">Gohze</a>
+- 🔭 I’m currently working on <a target="_BLANK" href="https://nimble-landing.vercel.app/">nimble</a>
 - 🌱 I’m currently learning VueJs and ReactJs.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
