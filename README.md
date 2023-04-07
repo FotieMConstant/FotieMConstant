@@ -1,4 +1,4 @@
-### Hello World 👋🏾 It's [Fotie](https://fotiemconstant.github.io/). Mostly known as [fotiecodes!](https://fotiecodes.vercel.app/)
+### Hello World 👋🏾 It's [Fotie](https://fotiemconstant.github.io/). Mostly known as [fotiecodes!](https://fotiecodes.com/)
 
 <a href="https://twitter.com/fotie_codes">
 <img align="left" alt="Fotie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
