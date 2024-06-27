@@ -13,20 +13,20 @@
 
 <br />
 
-Hi, I'm Fotie🙌, a Front-End Web Developer, AI learner and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + Markup) and Python.
+Hi, I'm Fotie🙌🏾, AI/ML Engineer, Software Developer, and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + Markup) and Python.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <br/>
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on <a target="_BLANK" href="https://signn-landing.vercel.app/">signn</a>
-- 🌱 I’m currently learning VueJs and ReactJs.
+- 🔭 I’m currently working on <a target="_BLANK" href="https://www.youtube.com/watch?v=qI2H6vNFbeM">J.A.R.V.I.S LLM</a>
+- 🌱 I’m currently learning improving myself.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform
-- ⚡ Check out my recent [Blogs](https://fotie.hashnode.dev/)✍🏾
-- 📝[Portfolio](https://fotiemconstant.github.io/)
+- ⚡ Check out my recent [Blogs](https://blog.fotiecodes.com/)✍🏾
+- 📝[Portfolio](https://fotiecodes.com/)
 - ✨ I Also speak Chinese.
 
 **Community**
