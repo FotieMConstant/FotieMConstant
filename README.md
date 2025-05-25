@@ -29,7 +29,7 @@ Hi, I'm Fotie🙌🏾, AI/ML Engineer, Software Developer, and Cloud Enthusiast.
 - 📝[Portfolio](https://fotiecodes.com/)
 - ✨ I Also speak Chinese.
 
-I started contributing to Open Source in May 2019, [have a look to my 1st Pull Request 😊 !](https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/142)
+I started contributing to Open Source in May 2020, [have a look to my 1st Pull Request 😊 !](https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/142)
 
 Some contributions :
 
