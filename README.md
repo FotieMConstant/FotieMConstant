@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/fotie-m-constant/">
 <img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/fotie_codes/">
+<!-- <a href="https://www.instagram.com/fotie_codes/">
 <img align="left" alt="Fotie Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <br />
 
 <br />
@@ -20,7 +20,7 @@ Hi, I'm Fotie🙌🏾, AI/ML Engineer, Software Developer, and Cloud Enthusiast.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on <a target="_BLANK" href="https://www.youtube.com/watch?v=qI2H6vNFbeM">J.A.R.V.I.S LLM</a>
+- 🔭 I’m currently working on the first ever <a target="_BLANK" href="https://www.youtube.com/watch?v=qI2H6vNFbeM">J.A.R.V.I.S LLM</a>
 - 🌱 I’m currently learning improving myself.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
@@ -29,10 +29,33 @@ Hi, I'm Fotie🙌🏾, AI/ML Engineer, Software Developer, and Cloud Enthusiast.
 - 📝[Portfolio](https://fotiecodes.com/)
 - ✨ I Also speak Chinese.
 
+I started contributing to Open Source in May 2019, [have a look to my 1st Pull Request 😊 !](https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/142)
+
+Some contributions :
+
+- [Scalar](https://github.com/scalar/scalar/pull/473)
+- [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI/commits?author=FotieMConstant)
+- [node-pesa](https://github.com/openpesa/node-pesa/commits?author=FotieMConstant)
+
+Some of my project :
+
+- [Support tickets classification](https://github.com/FotieMConstant/support-tickets-classification)
+- [Emotions in text classification](https://github.com/FotieMConstant/emotions-in-text-classification)
+- [J.A.R.V.I.S](https://github.com/clevaway/J.A.R.V.I.S)
+- [Bond](https://github.com/clevaway/bond)
+- [Applemojis](https://github.com/FotieMConstant/applemojis)
+- [Screel](https://github.com/FotieMConstant/screel)
+- [Geek Quote API](https://github.com/FotieMConstant/geek-quote-api)
+- [LAN-Tube](https://github.com/FotieMConstant/LAN-Tube)
+- [Revind](https://github.com/FotieMConstant/revind)
+- [4Selfie](https://github.com/FotieMConstant/4Selfie)
+- [Metal-Fighters](https://github.com/FotieMConstant/Metal-Fighters)
+
 **Community**
 
 - Google Developer Group Yaounde
 - Facebook Developer Circles Yaounde
+- Open Source Society Cameroon
 - Student Community Ambassador at Openlcassrooms
 
 ### Graph stats :
