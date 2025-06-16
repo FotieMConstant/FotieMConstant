@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm Fotie🙌🏾, AI/ML Engineer, Software Developer, and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS (JavaScript, APIs + Markup) and Python.
+Hi, I'm Fotie🙌🏾, AI/ML Engineer, Software Developer, and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ i am also passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, TensorFlow, PyTorch, LangChain, CrewAI, and frameworks like FastAPI and ReactJS.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <br/>
