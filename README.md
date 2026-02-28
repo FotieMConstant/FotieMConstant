@@ -33,9 +33,10 @@ I started contributing to Open Source in May 2020, [have a look to my 1st Pull R
 
 Some contributions :
 
-- [Scalar](https://github.com/scalar/scalar/pull/473)
-- [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI/commits?author=FotieMConstant)
-- [node-pesa](https://github.com/openpesa/node-pesa/commits?author=FotieMConstant)
+- [Scalar](https://github.com/scalar/scalar)
+- [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)
+- [node-pesa](https://github.com/openpesa/node-pesa)
+- [Handy](https://github.com/cjpais/Handy)
 
 Some of my project :
 
