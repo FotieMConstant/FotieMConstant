@@ -1,1 +1,950 @@
-{}
+{
+  "FotieMConstant/-studentbank-private": {
+    "additions": 23955,
+    "branch_commits": 26,
+    "commits": 26,
+    "deletions": 2273
+  },
+  "FotieMConstant/4Selfie": {
+    "additions": 934,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 2
+  },
+  "FotieMConstant/CodeUi": {
+    "additions": 22321,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/Encryptor-aes192": {
+    "additions": 2141,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 1
+  },
+  "FotieMConstant/FAFSOFT": {
+    "additions": 1975,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 735
+  },
+  "FotieMConstant/FLUX.1-dev-training": {
+    "additions": 13211,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 9
+  },
+  "FotieMConstant/FanJups": {
+    "additions": 0,
+    "branch_commits": 47,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/FbDevcCommunityContent": {
+    "additions": 13,
+    "branch_commits": 355,
+    "commits": 2,
+    "deletions": 2
+  },
+  "FotieMConstant/FotieMConstant": {
+    "additions": 748,
+    "branch_commits": 28,
+    "commits": 28,
+    "deletions": 110
+  },
+  "FotieMConstant/Handy": {
+    "additions": 51,
+    "branch_commits": 559,
+    "commits": 6,
+    "deletions": 51
+  },
+  "FotieMConstant/Image-Classifier-to-Identify-Dog-Breeds": {
+    "additions": 4,
+    "branch_commits": 4,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/Jobber": {
+    "additions": 20278,
+    "branch_commits": 38,
+    "commits": 38,
+    "deletions": 1594
+  },
+  "FotieMConstant/Kokoro-FastAPI": {
+    "additions": 5,
+    "branch_commits": 405,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/LAN-Messaging": {
+    "additions": 42847,
+    "branch_commits": 7,
+    "commits": 7,
+    "deletions": 6
+  },
+  "FotieMConstant/LAN-Tube": {
+    "additions": 148363,
+    "branch_commits": 32,
+    "commits": 32,
+    "deletions": 82
+  },
+  "FotieMConstant/Metal-Fighters": {
+    "additions": 1342,
+    "branch_commits": 40,
+    "commits": 3,
+    "deletions": 1
+  },
+  "FotieMConstant/NFTmarketplace": {
+    "additions": 342,
+    "branch_commits": 3,
+    "commits": 1,
+    "deletions": 13
+  },
+  "FotieMConstant/Nuxt-Project": {
+    "additions": 0,
+    "branch_commits": 3,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/OhMyFoodsMkIV": {
+    "additions": 15,
+    "branch_commits": 39,
+    "commits": 1,
+    "deletions": 8
+  },
+  "FotieMConstant/Onlib": {
+    "additions": 262359,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 0
+  },
+  "FotieMConstant/PasswordGenerator": {
+    "additions": 108095,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/Peruse": {
+    "additions": 38744,
+    "branch_commits": 52,
+    "commits": 52,
+    "deletions": 4787
+  },
+  "FotieMConstant/Project-4": {
+    "additions": 1148,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 1
+  },
+  "FotieMConstant/Project-5": {
+    "additions": 13357,
+    "branch_commits": 8,
+    "commits": 8,
+    "deletions": 8
+  },
+  "FotieMConstant/QuickBlog": {
+    "additions": 93280,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/Restaurant-review": {
+    "additions": 2505,
+    "branch_commits": 41,
+    "commits": 36,
+    "deletions": 1386
+  },
+  "FotieMConstant/RockPS": {
+    "additions": 108117,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/TTS-Reader": {
+    "additions": 172194,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/Todo-list-app": {
+    "additions": 14955,
+    "branch_commits": 25,
+    "commits": 25,
+    "deletions": 40
+  },
+  "FotieMConstant/Watch-it-outside": {
+    "additions": 23343,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 2
+  },
+  "FotieMConstant/applemojis": {
+    "additions": 27894,
+    "branch_commits": 15,
+    "commits": 15,
+    "deletions": 98
+  },
+  "FotieMConstant/basic-neuralnetwork": {
+    "additions": 1262,
+    "branch_commits": 5,
+    "commits": 5,
+    "deletions": 1
+  },
+  "FotieMConstant/browser-use": {
+    "additions": 3,
+    "branch_commits": 778,
+    "commits": 1,
+    "deletions": 3
+  },
+  "FotieMConstant/bts-academy": {
+    "additions": 35925,
+    "branch_commits": 25,
+    "commits": 10,
+    "deletions": 19795
+  },
+  "FotieMConstant/bts-thinktank": {
+    "additions": 35001,
+    "branch_commits": 73,
+    "commits": 44,
+    "deletions": 35702
+  },
+  "FotieMConstant/bubblegum": {
+    "additions": 35550,
+    "branch_commits": 9,
+    "commits": 9,
+    "deletions": 13298
+  },
+  "FotieMConstant/camerapps.com": {
+    "additions": 31,
+    "branch_commits": 103,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/cameroon-youtubers": {
+    "additions": 54,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 4
+  },
+  "FotieMConstant/catherine": {
+    "additions": 159,
+    "branch_commits": 7,
+    "commits": 7,
+    "deletions": 17
+  },
+  "FotieMConstant/cd0046-SQL-and-Data-Modeling-for-the-Web": {
+    "additions": 0,
+    "branch_commits": 7,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/chalk.ist": {
+    "additions": 114,
+    "branch_commits": 109,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/chatline": {
+    "additions": 13617,
+    "branch_commits": 14,
+    "commits": 14,
+    "deletions": 353
+  },
+  "FotieMConstant/chrome-tweak": {
+    "additions": 92,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 2
+  },
+  "FotieMConstant/clevaway.com": {
+    "additions": 5071,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/copybook": {
+    "additions": 52,
+    "branch_commits": 436,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/countries": {
+    "additions": 2,
+    "branch_commits": 7,
+    "commits": 1,
+    "deletions": 1
+  },
+  "FotieMConstant/covid-19-estimator": {
+    "additions": 5462,
+    "branch_commits": 3,
+    "commits": 2,
+    "deletions": 3
+  },
+  "FotieMConstant/dev-around": {
+    "additions": 31966,
+    "branch_commits": 26,
+    "commits": 26,
+    "deletions": 317
+  },
+  "FotieMConstant/dijkstras-algorithm": {
+    "additions": 0,
+    "branch_commits": 0,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/documentation": {
+    "additions": 0,
+    "branch_commits": 174,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/dogehouse": {
+    "additions": 3983,
+    "branch_commits": 5963,
+    "commits": 19,
+    "deletions": 279
+  },
+  "FotieMConstant/dogehouse-docs": {
+    "additions": 871,
+    "branch_commits": 48,
+    "commits": 46,
+    "deletions": 249
+  },
+  "FotieMConstant/ducker-github-job": {
+    "additions": 84,
+    "branch_commits": 10,
+    "commits": 10,
+    "deletions": 12
+  },
+  "FotieMConstant/eQa-api": {
+    "additions": 2800,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 1
+  },
+  "FotieMConstant/emotions-in-text-classification": {
+    "additions": 24643,
+    "branch_commits": 12,
+    "commits": 11,
+    "deletions": 644
+  },
+  "FotieMConstant/eulalie-portfolio": {
+    "additions": 28294,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 23
+  },
+  "FotieMConstant/fine-tune-gpt3-model": {
+    "additions": 0,
+    "branch_commits": 6,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/first-contributions": {
+    "additions": 1,
+    "branch_commits": 27474,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/first-doc-with-docusaurus-2": {
+    "additions": 10324,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/fotiemconstant.github.io": {
+    "additions": 324829,
+    "branch_commits": 70,
+    "commits": 64,
+    "deletions": 291203
+  },
+  "FotieMConstant/geek-quote-api": {
+    "additions": 40798,
+    "branch_commits": 121,
+    "commits": 88,
+    "deletions": 2849
+  },
+  "FotieMConstant/generate-pdf": {
+    "additions": 0,
+    "branch_commits": 1,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/github-browse": {
+    "additions": 0,
+    "branch_commits": 3,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/gitsocial": {
+    "additions": 13684,
+    "branch_commits": 15,
+    "commits": 10,
+    "deletions": 540
+  },
+  "FotieMConstant/gohze-project": {
+    "additions": 12154,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 4
+  },
+  "FotieMConstant/google-clone": {
+    "additions": 16403,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 24
+  },
+  "FotieMConstant/gpt-fine-tuning-with-nodejs": {
+    "additions": 0,
+    "branch_commits": 3,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/gpt-oss": {
+    "additions": 128,
+    "branch_commits": 35,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/helumen": {
+    "additions": 11813,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 180
+  },
+  "FotieMConstant/infoyed": {
+    "additions": 20196,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/inmour-frontend": {
+    "additions": 12808,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 100
+  },
+  "FotieMConstant/jitsi-video-conference-vue-app": {
+    "additions": 13549,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 94
+  },
+  "FotieMConstant/jitsi-wrapper": {
+    "additions": 59,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/jobber-homepage": {
+    "additions": 28051,
+    "branch_commits": 16,
+    "commits": 14,
+    "deletions": 12
+  },
+  "FotieMConstant/klaar": {
+    "additions": 8499,
+    "branch_commits": 10,
+    "commits": 10,
+    "deletions": 349
+  },
+  "FotieMConstant/lana-mixtral-8x7b": {
+    "additions": 190,
+    "branch_commits": 161,
+    "commits": 2,
+    "deletions": 17
+  },
+  "FotieMConstant/lana-mixtral-8x7b-old": {
+    "additions": 425,
+    "branch_commits": 111,
+    "commits": 15,
+    "deletions": 108
+  },
+  "FotieMConstant/lanadoc": {
+    "additions": 39078,
+    "branch_commits": 17,
+    "commits": 17,
+    "deletions": 5536
+  },
+  "FotieMConstant/lanadoc-cli": {
+    "additions": 72072,
+    "branch_commits": 40,
+    "commits": 40,
+    "deletions": 1634
+  },
+  "FotieMConstant/lanadoc-dataset-processing": {
+    "additions": 1141,
+    "branch_commits": 5,
+    "commits": 5,
+    "deletions": 105
+  },
+  "FotieMConstant/lingua": {
+    "additions": 637842,
+    "branch_commits": 8,
+    "commits": 8,
+    "deletions": 230870
+  },
+  "FotieMConstant/macOSApp": {
+    "additions": 1587,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 1
+  },
+  "FotieMConstant/made-in-africa": {
+    "additions": 750,
+    "branch_commits": 11,
+    "commits": 7,
+    "deletions": 3
+  },
+  "FotieMConstant/made-in-cameroon": {
+    "additions": 7,
+    "branch_commits": 19,
+    "commits": 1,
+    "deletions": 1
+  },
+  "FotieMConstant/max": {
+    "additions": 8937,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 280
+  },
+  "FotieMConstant/mediasocket": {
+    "additions": 17225,
+    "branch_commits": 12,
+    "commits": 12,
+    "deletions": 167
+  },
+  "FotieMConstant/meerkat": {
+    "additions": 45761,
+    "branch_commits": 22,
+    "commits": 22,
+    "deletions": 21570
+  },
+  "FotieMConstant/mentor-me": {
+    "additions": 15958,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 7
+  },
+  "FotieMConstant/moomail": {
+    "additions": 32429,
+    "branch_commits": 19,
+    "commits": 19,
+    "deletions": 673
+  },
+  "FotieMConstant/nano-redbox": {
+    "additions": 1078,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 5
+  },
+  "FotieMConstant/nextjs-docs": {
+    "additions": 3487,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/note-app": {
+    "additions": 22465,
+    "branch_commits": 22,
+    "commits": 15,
+    "deletions": 185
+  },
+  "FotieMConstant/nuxtjs-boilerplate": {
+    "additions": 20345,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 1801
+  },
+  "FotieMConstant/old-projects": {
+    "additions": 292377,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/orderbook-scaper": {
+    "additions": 420879,
+    "branch_commits": 112,
+    "commits": 112,
+    "deletions": 190522
+  },
+  "FotieMConstant/pamela": {
+    "additions": 9870,
+    "branch_commits": 5,
+    "commits": 5,
+    "deletions": 137
+  },
+  "FotieMConstant/paper-llm-output": {
+    "additions": 159,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/peruse-landing": {
+    "additions": 482,
+    "branch_commits": 25,
+    "commits": 8,
+    "deletions": 32
+  },
+  "FotieMConstant/pesa-js": {
+    "additions": 1,
+    "branch_commits": 66,
+    "commits": 1,
+    "deletions": 1
+  },
+  "FotieMConstant/portfolio-v4": {
+    "additions": 59082,
+    "branch_commits": 26,
+    "commits": 26,
+    "deletions": 1917
+  },
+  "FotieMConstant/portfolio-v5": {
+    "additions": 21634,
+    "branch_commits": 47,
+    "commits": 47,
+    "deletions": 416
+  },
+  "FotieMConstant/postman2doc": {
+    "additions": 0,
+    "branch_commits": 33,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/premier-dev-firstcontributions": {
+    "additions": 28,
+    "branch_commits": 25,
+    "commits": 8,
+    "deletions": 21
+  },
+  "FotieMConstant/premierdev-bootcamp": {
+    "additions": 280,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/project-lana": {
+    "additions": 5680,
+    "branch_commits": 9,
+    "commits": 9,
+    "deletions": 10
+  },
+  "FotieMConstant/project-turbo": {
+    "additions": 317,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/py-scraper": {
+    "additions": 2,
+    "branch_commits": 8,
+    "commits": 2,
+    "deletions": 1
+  },
+  "FotieMConstant/raisely-signup-form": {
+    "additions": 0,
+    "branch_commits": 7,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/react-demo-pd": {
+    "additions": 27239,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 15
+  },
+  "FotieMConstant/react-reduction": {
+    "additions": 0,
+    "branch_commits": 74,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/restaurant-app-vuejs": {
+    "additions": 12263,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 81
+  },
+  "FotieMConstant/revind": {
+    "additions": 13903,
+    "branch_commits": 59,
+    "commits": 7,
+    "deletions": 18
+  },
+  "FotieMConstant/rlp-proxy": {
+    "additions": 0,
+    "branch_commits": 26,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/scalar": {
+    "additions": 78,
+    "branch_commits": 1049,
+    "commits": 4,
+    "deletions": 48
+  },
+  "FotieMConstant/screel": {
+    "additions": 68040,
+    "branch_commits": 242,
+    "commits": 116,
+    "deletions": 16385
+  },
+  "FotieMConstant/scriptwave": {
+    "additions": 25057,
+    "branch_commits": 16,
+    "commits": 16,
+    "deletions": 669
+  },
+  "FotieMConstant/signn": {
+    "additions": 59309,
+    "branch_commits": 48,
+    "commits": 48,
+    "deletions": 16380
+  },
+  "FotieMConstant/signn-landing": {
+    "additions": 5156,
+    "branch_commits": 33,
+    "commits": 20,
+    "deletions": 600
+  },
+  "FotieMConstant/stan_project_1": {
+    "additions": 16662,
+    "branch_commits": 15,
+    "commits": 15,
+    "deletions": 380
+  },
+  "FotieMConstant/stories.js": {
+    "additions": 426,
+    "branch_commits": 6,
+    "commits": 6,
+    "deletions": 72
+  },
+  "FotieMConstant/studentbank": {
+    "additions": 21843,
+    "branch_commits": 8,
+    "commits": 8,
+    "deletions": 1910
+  },
+  "FotieMConstant/studentbank-react": {
+    "additions": 47055,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/support-tickets-classification": {
+    "additions": 50606,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 253
+  },
+  "FotieMConstant/tail-kit": {
+    "additions": 0,
+    "branch_commits": 232,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/tailwind-you": {
+    "additions": 57423,
+    "branch_commits": 25,
+    "commits": 25,
+    "deletions": 3105
+  },
+  "FotieMConstant/taski-project": {
+    "additions": 14243,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 407
+  },
+  "FotieMConstant/test-redocly": {
+    "additions": 0,
+    "branch_commits": 0,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/tiny-css": {
+    "additions": 0,
+    "branch_commits": 7,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/tortoise-tts-modal-api": {
+    "additions": 0,
+    "branch_commits": 29,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/ts-challenge-1": {
+    "additions": 337,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/ts-learn": {
+    "additions": 214,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/tune-gpt": {
+    "additions": 28604,
+    "branch_commits": 18,
+    "commits": 18,
+    "deletions": 702
+  },
+  "FotieMConstant/tweeb3-feedback-repo": {
+    "additions": 106,
+    "branch_commits": 7,
+    "commits": 7,
+    "deletions": 4
+  },
+  "FotieMConstant/twitter-clone": {
+    "additions": 14353,
+    "branch_commits": 17,
+    "commits": 17,
+    "deletions": 569
+  },
+  "FotieMConstant/upvote": {
+    "additions": 14338,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 38
+  },
+  "FotieMConstant/v4": {
+    "additions": 0,
+    "branch_commits": 502,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/valentine-dilara": {
+    "additions": 1267,
+    "branch_commits": 33,
+    "commits": 8,
+    "deletions": 385
+  },
+  "FotieMConstant/valentine-gift-cloe": {
+    "additions": 3037,
+    "branch_commits": 7,
+    "commits": 7,
+    "deletions": 54
+  },
+  "FotieMConstant/vue": {
+    "additions": 7519,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 0
+  },
+  "FotieMConstant/vue-button-anotherone": {
+    "additions": 0,
+    "branch_commits": 2,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/vue-codesandbox": {
+    "additions": 109,
+    "branch_commits": 18,
+    "commits": 10,
+    "deletions": 45
+  },
+  "FotieMConstant/vue-jitsi-simple": {
+    "additions": 12948,
+    "branch_commits": 1,
+    "commits": 1,
+    "deletions": 0
+  },
+  "FotieMConstant/vue-pather": {
+    "additions": 775,
+    "branch_commits": 5,
+    "commits": 5,
+    "deletions": 1
+  },
+  "FotieMConstant/vue-pdf-viewer": {
+    "additions": 143427,
+    "branch_commits": 4,
+    "commits": 4,
+    "deletions": 66
+  },
+  "FotieMConstant/vue-tailwind-templete": {
+    "additions": 13270,
+    "branch_commits": 2,
+    "commits": 2,
+    "deletions": 166
+  },
+  "FotieMConstant/vue2-base": {
+    "additions": 14192,
+    "branch_commits": 7,
+    "commits": 7,
+    "deletions": 358
+  },
+  "FotieMConstant/vue3-base": {
+    "additions": 26880,
+    "branch_commits": 13,
+    "commits": 13,
+    "deletions": 485
+  },
+  "FotieMConstant/vue3-base-ts": {
+    "additions": 27032,
+    "branch_commits": 3,
+    "commits": 3,
+    "deletions": 705
+  },
+  "FotieMConstant/vuegram": {
+    "additions": 0,
+    "branch_commits": 4,
+    "commits": 0,
+    "deletions": 0
+  },
+  "FotieMConstant/vuex-store-practice": {
+    "additions": 12755,
+    "branch_commits": 5,
+    "commits": 5,
+    "deletions": 90
+  },
+  "FotieMConstant/whatsapp-clone": {
+    "additions": 13907,
+    "branch_commits": 15,
+    "commits": 15,
+    "deletions": 270
+  },
+  "Jael-dev/Taski": {
+    "additions": 0,
+    "branch_commits": 17,
+    "commits": 0,
+    "deletions": 0
+  },
+  "RonaldColyar/dogehouse": {
+    "additions": 3974,
+    "branch_commits": 675,
+    "commits": 17,
+    "deletions": 270
+  },
+  "TatchumNono/lantube-v2": {
+    "additions": 15298,
+    "branch_commits": 42,
+    "commits": 12,
+    "deletions": 1661
+  },
+  "daniel-acosta-dvt/devocoin-hackaton": {
+    "additions": 0,
+    "branch_commits": 1,
+    "commits": 0,
+    "deletions": 0
+  },
+  "dilanlongla/JobberServer": {
+    "additions": 0,
+    "branch_commits": 2,
+    "commits": 0,
+    "deletions": 0
+  },
+  "dilanlongla/Video-Calling": {
+    "additions": 92,
+    "branch_commits": 21,
+    "commits": 19,
+    "deletions": 183
+  },
+  "triom/Dijkstra": {
+    "additions": 0,
+    "branch_commits": 3,
+    "commits": 0,
+    "deletions": 0
+  }
+}

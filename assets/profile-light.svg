@@ -59,8 +59,8 @@ text, tspan { white-space: pre; }
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">@fotie_codes</tspan>
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">FotieMConstant</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">120</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">—</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">250</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">—</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">128</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">—</tspan> ( <tspan class="addColor">—++</tspan>, <tspan class="cc"> ...... </tspan><tspan class="delColor">—--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">120</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">158</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">250</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">1,621</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">128</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> . </tspan><tspan class="value">3,508,510</tspan> ( <tspan class="addColor">4,388,173++</tspan>, <tspan class="cc"> . </tspan><tspan class="delColor">879,663--</tspan> )
 </text>
 </svg>
