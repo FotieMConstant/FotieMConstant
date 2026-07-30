@@ -49,7 +49,7 @@
   },
   "FotieMConstant/FotieMConstant": {
     "additions": 748,
-    "branch_commits": 33,
+    "branch_commits": 34,
     "commits": 28,
     "deletions": 110
   },
@@ -922,12 +922,6 @@
     "branch_commits": 42,
     "commits": 12,
     "deletions": 1661
-  },
-  "daniel-acosta-dvt/devocoin-hackaton": {
-    "additions": 0,
-    "branch_commits": 1,
-    "commits": 0,
-    "deletions": 0
   },
   "dilanlongla/JobberServer": {
     "additions": 0,
